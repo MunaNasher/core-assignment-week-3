@@ -11,9 +11,10 @@ Write your code in `task-1/book.js`
 Write your code in `task-2/parse-date.js`
 
 ### Task 3
-Write your code in `task-3`. Do not modify `example.js`. Implement the requirements in a new file named `date.js`.
+Write your code in `task-3`. Implement the requirements in a new file named `date.js`.  
+❗️ Do not modify `example.js`.
 
 ### Task 4
-Write your code in `task-4/.js`
-...
+Write your code in `task-4/cleanup.js`
+
 
